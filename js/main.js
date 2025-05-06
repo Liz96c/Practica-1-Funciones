@@ -4,4 +4,4 @@ una función”*/
 function ejemplo(){
     return 'Hola, soy una función';
  }
-console.log(ejemplo())
+console.log(ejemplo());
